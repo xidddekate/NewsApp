@@ -7,6 +7,6 @@ Remember to switch on CORS policy.
 Screenshots of webApp:
 
 
-<a href="Screenshot 53.png"><br><br>
-<a href="Screenshot 54.png"><br><br>
-<a href="Screenshot 55.png"><br><br>
+<a href="Screenshot (53).png"><br><br>
+<a href="Screenshot (54).png"><br><br>
+<a href="Screenshot (55).png"><br><br>
