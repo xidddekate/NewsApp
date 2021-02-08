@@ -7,6 +7,8 @@ Remember to switch on CORS policy.
 Screenshots of webApp:
 
 
-<a href="Screenshot (53).png"><br><br>
-<a href="Screenshot (54).png"><br><br>
-<a href="Screenshot (55).png"><br><br>
+![alt](https://github.com/xidddekate/NewsApp/blob/master/Screenshot%20(53).png?raw=true)<br><br>
+
+![alt](https://github.com/xidddekate/NewsApp/blob/master/Screenshot%20(54).png?raw=true)<br><br>
+
+![alt](https://github.com/xidddekate/NewsApp/blob/master/Screenshot%20(55).png?raw=true)<br><br>
